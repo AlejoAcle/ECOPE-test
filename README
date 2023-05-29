@@ -1,0 +1,55 @@
+# Lista de Usuarios
+
+Este proyecto es una aplicación web de React desarrollada con Vite que muestra una lista de usuarios obtenida de una API externa. Permite ver los detalles de cada usuario y su dirección.
+
+## Características
+
+- Muestra una lista de usuarios obtenida de una API externa.
+- Permite ver los detalles de cada usuario, incluyendo su dirección.
+- Diseño moderno con estilos utilizando React Bootstrap.
+
+## Tecnologías Utilizadas
+
+![React](https://i.imgur.com/d1D0QwH.png) ![React Router](https://i.imgur.com/qqaonf2.png) ![Axios](https://i.imgur.com/9O0OCt3.png) ![React Bootstrap](https://i.imgur.com/CEJa1JF.png) ![Jest](https://i.imgur.com/NWsgvRm.png) ![React Testing Library](https://i.imgur.com/0HZYnAl.png) ![Vite](https://i.imgur.com/0bD74so.png)
+
+## Instalación
+
+1. Clona este repositorio en tu máquina local.
+2. Navega hasta la carpeta del proyecto: `cd lista-usuarios`.
+3. Instala las dependencias: `npm install`.
+
+## Uso
+
+1. Inicia la aplicación: `npm start`.
+2. Abre tu navegador y visita `http://localhost:3000` para ver la aplicación en acción.
+
+## Pruebas Unitarias
+
+Este proyecto incluye pruebas unitarias utilizando Jest y React Testing Library.
+
+- Para ejecutar las pruebas, utiliza el siguiente comando: `npm test`.
+
+## Dependencias
+
+- React: Framework de JavaScript para construir interfaces de usuario.
+- React Router: Librería de enrutamiento para React.
+- Axios: Cliente HTTP para hacer peticiones a la API de usuarios.
+- React Bootstrap: Librería de componentes UI basada en Bootstrap para React.
+- Jest: Framework de pruebas para JavaScript.
+- React Testing Library: Utilidades de pruebas para React.
+- Vite: Build tool y servidor de desarrollo rápido para aplicaciones web modernas.
+
+## Contribución
+
+Si deseas contribuir a este proyecto, puedes seguir los siguientes pasos:
+
+1. Realiza un fork de este repositorio.
+2. Crea una rama con tu nueva funcionalidad: `git checkout -b nueva-funcionalidad`.
+3. Realiza los cambios y realiza los commits correspondientes.
+4. Envía tus cambios al repositorio remoto: `git push origin nueva-funcionalidad`.
+5. Crea un pull request en este repositorio para revisar tus cambios.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Puedes ver el archivo [LICENSE](./LICENSE) para más detalles.
+
