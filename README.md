@@ -24,7 +24,7 @@ Este proyecto es una aplicación web de React desarrollada con Vite que muestra 
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
-2. Navega hasta la carpeta del proyecto: `cd lista-usuarios`.
+2. Navega hasta la carpeta del proyecto: `cd ecope-test`.
 3. Instala las dependencias: `npm install`.
 
 ## Uso
